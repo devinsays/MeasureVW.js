@@ -1,4 +1,6 @@
-# MeasureVW.js, a jQuery plugin for measuring elements as a percentage of viewport width (vw units)
+# MeasureVW.js
+
+### A jQuery plugin for measuring elements as a percentage of viewport width (vw units)
 
 This is a simple developer tool to identifying image sizes in vw units for responsive images using srcset. If you have paddings and margins on elements that contain images, it can sometimes be difficult to calculate the image width in vw units. Do you really want to do all that math?
 
