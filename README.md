@@ -16,6 +16,8 @@ $('.post-thumbnail img').MeasureVW();
 
 To view the measurements, open your console log and resize your screen.
 
+![Console Log](screenshot.jpg?raw=true "Console Log")
+
 ## No jQuery?
 
 No problem, just copy/paste this vanilla javascript and change the selector to the one you wish to measure:
